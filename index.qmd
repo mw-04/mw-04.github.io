@@ -1,6 +1,6 @@
 ---
-title: "YOUR NAME" 
-about:
+title: "Michelle Woods" 
+about: 
   template: trestles  # jolla  trestles  solana  marquee  broadside
   image: img/profile.png
   image-width: 16em
@@ -15,28 +15,22 @@ about:
       href: https://instagram.com
     - icon: github
       text: GitHub
-      href: https://github.com
+      href: https://github.com/mw-04/mw-04.github.io
     - icon: file-earmark-pdf
       text: Resumé
       href: resume-example.pdf
       target: _blank
     - icon: mailbox
       text: Email
-      href: mailto:YOUR_EMAIL@geneseo.edu
-
+      href: mailto:mw39@geneseo.edu
 ---
 
-
-Finley Malloc majors in Data Analytics at SUNY Geneseo. When not working on data analytics, Finley enjoys spending time unicycling and playing with her pet iguana.
+Michelle Woods majors in Physics at SUNY Geneseo. When not solving physics, Michelle enjoys spending time solving puzzles and playing with her pet cat.
 
 ## Education
 
-State University of New York at Geneseo | Geneseo, NY <br>
-B.S. in Data Analytics | Aug 2022 - May 2026 <br>
-Minor in Economics
+State University of New York at Geneseo \| Geneseo, NY <br> B.S. in Physics \| Aug 2022 - May 2026 <br> Minor in Mathematics and Data Analytics
 
 ## Experience
 
-Starbucks Analytics | Data Analyst Intern | May 2024 - Aug 2024
-
-
+SUNY Geneseo \| Research Aide \| May 2024 - Aug 2024
